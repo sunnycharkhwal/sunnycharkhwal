@@ -2,7 +2,11 @@
 ![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif)
 
 # 💫 About Me:
+<p>As a Frontend React js Developer at Maxlence, I create visually appealing and responsive web applications that provide great user experiences. I specialize in React Js, HTML, CSS, Bootstrap, and JavaScript, and I have experience working with various front-end frameworks and libraries.
+
+I have honed my skills in developing web applications that are optimized for performance and maintainability, working with cross-functional teams to deliver projects on time. I have a gniit degree in Computer Software Engineering from the National Institute of Information Technology, and I am constantly learning and exploring new front-end technologies to stay up-to-date with the latest trends. I am passionate about creating web applications that solve real-world problems and add value to users.</p>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/166a6af24d787a35796e6fd4a858a390f3c8b8d687203d85f4f1eeb57ce7a6c8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33466a4550624b7145506850706d433875592f67697068792e676966" />
+
 🔭 I’m currently working on MaxCRM<br><br>🌱 I’m currently learning React Native<br><br>💬 Ask me about React<br><br>📫 How to reach me sunny.charkhwal@gmail<br><br>⚡ Fun fact I think I am funny
 
 
