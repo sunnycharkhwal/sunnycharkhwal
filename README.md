@@ -2,7 +2,7 @@
 ![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif)
 
 # 💫 About Me:
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/166a6af24d787a35796e6fd4a858a390f3c8b8d687203d85f4f1eeb57ce7a6c8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33466a4550624b7145506850706d433875592f67697068792e676966" />
 🔭 I’m currently working on MaxCRM<br><br>🌱 I’m currently learning React Native<br><br>💬 Ask me about React<br><br>📫 How to reach me sunny.charkhwal@gmail<br><br>⚡ Fun fact I think I am funny
 
 
